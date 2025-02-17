@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DotUnderscoreCleanup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DotUnderscoreCleanup_jar</output-path>
+    <root id="archive" name="DotUnderscoreCleanup.jar">
+      <element id="module-output" name="DotUnderscoreCleanup" />
+    </root>
+  </artifact>
+</component>
