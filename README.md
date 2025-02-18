@@ -5,6 +5,14 @@ are not relevant on other operating systems like Windows.
 
 ## Running
 
+### To delete all `._` files
+
 ```
 java -jar DotUnderscoreCleanup.jar <absolute-path>
+```
+
+### List all `._` files without deleting
+
+```
+java -jar DotUnderscoreCleanup.jar <absolute-path> --list
 ```
